@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U6lZUKrQPeg7FSAcaweuU/dvBsUUixvDnukr/Sw6Fe73BJFpHKrJkNaKgnd9d8pqhI41WY8KdtF8y1QHbxCUqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adirr\\Desktop\\אדיר\\Projects\\Console.net\\mslearn-dotnet-files-main\\mslearn-dotnet-files.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adirr\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
