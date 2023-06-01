@@ -17,3 +17,6 @@ for (int i = 0; i < message.Length; i++)
 //Step 4
 string result = String.Join(" ", newMessage);
 Console.WriteLine(result);
+
+// Output
+// ehT kciuq nworb xof spmuj revo eht yzal god
